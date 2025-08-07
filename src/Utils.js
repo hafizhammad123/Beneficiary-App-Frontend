@@ -1,0 +1,1 @@
+export const BASE_URL = `https://beneficiary-app-backend.onrender.com/api`
